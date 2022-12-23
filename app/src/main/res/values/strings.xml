@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Lerato</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="onboardingPowerful">Be Bold</string>
+    <string name="onboardingPowerfulDesc">This app intends to blah and  lorem ips lorem ipsum</string>
+    <string name="onboardingAssist">Be Kind</string>
+    <string name="onboardingEmpower">Be Inspiring</string>
+    <string name="onboardingAssistDesc">blajh blah b;ah b;ah</string>
+    <string name="onboardingEmpowerlDesc">"hjjhj jhjhj hjhjhjhuy ftftftf tftfjjkk "</string>
+    <string name="home">Home</string>
+    <string name="regions">Regions</string>
+    <string name="fab">Floating Action Button</string>
+    <string name="finances">Finances</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="accountInfo">Account</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="addDonation">Add Donation</string>
+    <string name="addRegion">Add New Region</string>
+    <string name="makeReport">File an issue?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="loginForFullExperience">Login for full experience</string>
+    <string name="cancel">Exit</string>
+    <string name="proceedToLogin">Have an account? proceed to login.</string>
+    <string name="signupDetails">Enter details to Sign Up</string>
+</resources>

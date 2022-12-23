@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home_vector"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/accountInfo"
+            android:icon="@drawable/home_vector"
+            android:title="@string/accountInfo" />
+    </group>
+
+    <item android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:icon="@drawable/money_bill_vector"
+                    android:title="@string/accountInfo" />
+                <item
+                    android:id="@+id/donationsInfo"
+                    android:icon="@drawable/money_bill_vector"
+                    android:title="@string/accountInfo" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="App">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/settings"
+                    android:icon="@drawable/settings_vector"
+                    android:title="@string/settings" />
+                <item
+                    android:id="@+id/users"
+                    android:icon="@drawable/money_bill_vector"
+                    android:title="@string/accountInfo" />
+            </group>
+        </menu>
+    </item>
+
+</menu>
